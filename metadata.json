@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS",
+  "description": "Spider-Woman holographic AI command center featuring dark glassmorphism, crimson & cyan accents, ARACHNE holographic female AI avatar, voice recognition & speech synthesis, BTC crypto market analytics, MT5 & Instagram automations, and system hardware diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
